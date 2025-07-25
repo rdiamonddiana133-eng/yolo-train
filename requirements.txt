@@ -1,4 +1,5 @@
 ultralytics
+gradio
 opencv-python
 matplotlib
 numpy
